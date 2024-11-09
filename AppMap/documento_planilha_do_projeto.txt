@@ -1,0 +1,60 @@
+
+```json
+{
+  "planilha": {
+    "titulo": "Planilha do Projeto - Geração de Documentos PDF a partir de Conteúdos de Vídeos e Sites",
+    "descricao": "Esta planilha contém informações detalhadas sobre as etapas do projeto e seu progresso.",
+    "dados": [
+      {
+        "etapa": "Levantamento de Requisitos",
+        "descricao": "Identificação e coleta de requisitos junto aos stakeholders.",
+        "status": "Concluído",
+        "responsavel": "Equipe de Análise",
+        "data_inicio": "2024-01-05",
+        "data_fim": "2024-01-10"
+      },
+      {
+        "etapa": "Análise Técnica",
+        "descricao": "Análise das tecnologias e metodologias a serem utilizadas no projeto.",
+        "status": "Concluído",
+        "responsavel": "Gerente de Projeto",
+        "data_inicio": "2024-01-11",
+        "data_fim": "2024-01-13"
+      },
+      {
+        "etapa": "Desenvolvimento do Script",
+        "descricao": "Implementação do script para extração e organização dos dados.",
+        "status": "Em Andamento",
+        "responsavel": "Equipe de Desenvolvimento",
+        "data_inicio": "2024-01-14",
+        "data_fim": "2024-02-03"
+      },
+      {
+        "etapa": "Testes e Validação",
+        "descricao": "Testar o sistema para garantir que os requisitos estão sendo atendidos.",
+        "status": "Pendente",
+        "responsavel": "Equipe de Testes",
+        "data_inicio": "2024-02-04",
+        "data_fim": "2024-02-10"
+      },
+      {
+        "etapa": "Documentação",
+        "descricao": "Criação da documentação do projeto, incluindo instruções de uso.",
+        "status": "Pendente",
+        "responsavel": "Equipe de Documentação",
+        "data_inicio": "2024-02-11",
+        "data_fim": "2024-02-16"
+      },
+      {
+        "etapa": "Entrega do Projeto",
+        "descricao": "Apresentação final do projeto e entrega de todos os materiais.",
+        "status": "Pendente",
+        "responsavel": "Gerente de Projeto",
+        "data_inicio": "2024-02-17",
+        "data_fim": "2024-02-17"
+      }
+    ]
+  },
+  "nome_da_planilha": "Planilha do Projeto - Geração de Documentos PDF a partir de Conteúdos de Vídeos e Sites"
+}
+```
